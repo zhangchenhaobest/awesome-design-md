@@ -1,3 +1,29 @@
+# awesome-design-md
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+知名品牌设计系统的 DESIGN.md 分析合集，放入项目即可让编码 Agent 生成匹配 UI。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 
 <a href="https://github.com/VoltAgent/voltagent">
      <img width="1500"  alt="claude-skills" src="https://cdn.voltagent.dev/awesome-repo/logo.json.svg" />
